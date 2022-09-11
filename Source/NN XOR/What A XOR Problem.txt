@@ -1,0 +1,8 @@
+What A XOR Problem?
+Read That:):
+
+An XOR (exclusive OR gate) is a digital logic gate that gives a true output only when both its inputs differ from each other. 
+The truth table for an XOR gate is shown below: Truth Table for XOR. 
+The goal of the neural network is to classify the input patterns according to the above truth table.
+
+Video About XOR Problem: https://youtu.be/kNPGXgzxoHwW

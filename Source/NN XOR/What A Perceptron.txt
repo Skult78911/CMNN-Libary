@@ -1,0 +1,7 @@
+What A Perceptron In Neural Network?
+Read That:):
+
+A Perceptron is a neural network unit that does certain computations to detect features or business intelligence in the input data. 
+It is a function that maps its input “x,” which is multiplied by the learned weight coefficient, and generates an output value ”f(x)
+
+Video About Perceptron In Nerual Network: https://youtu.be/RNYT9bECfOo

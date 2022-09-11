@@ -1,0 +1,5 @@
+                                            		      Watch The Code Comentaries And You Can Learn About The Code Of Example ;)
+
+                                                                                				WARNING!!!!
+            You Need To Know Something About NN (Neural Networks) Before You Start Making Something In This Libary. You Need To Know About The Weights, Layer And More. 
+            		But If You Get Lasy I'm Have A Comments Of All Pieece Of Code. But I'm Early Recommend To You To Learn Somehing About NN (Neural Netowrks).
