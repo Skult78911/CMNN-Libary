@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/113279394/189626531-a7b556ce-311e-49c9-bfad-10a171f41247.png) ![Logo](https://user-images.githubusercontent.com/113279394/189626531-a7b556ce-311e-49c9-bfad-10a171f41247.png)
+  ![Logo](https://user-images.githubusercontent.com/113279394/189626531-a7b556ce-311e-49c9-bfad-10a171f41247.png)
 
 # What at a CMNN Libary?
 -----
